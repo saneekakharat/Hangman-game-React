@@ -1,1 +1,1 @@
-# Hangman-game-React
+Hangman Game using React
